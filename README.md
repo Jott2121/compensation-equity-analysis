@@ -1,5 +1,7 @@
 # Compensation Equity Analysis
 
+![CI](https://github.com/Jott2121/compensation-equity-analysis/actions/workflows/ci.yml/badge.svg)
+
 Enterprise compensation equity analytics and remediation planning. Regression-based pay audit following the methodology used by Mercer, WTW, and Aon — isolates unexplained pay variation associated with gender or race after controlling for legitimate drivers (level, function, location, tenure, experience, performance, management status).
 
 **[Live dashboard →](https://compensation-equity-jotterson.streamlit.app/)** (no install required)
